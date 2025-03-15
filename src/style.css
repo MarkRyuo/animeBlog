@@ -13,27 +13,6 @@ body {
 }
 
 
-img {
-  width: 500px;
-  height: 700px;
-}
-
-nav {
-  height: 80px;
-  display: flex;
-  align-items: center;
-}
-
-
-.heading1 {
-  font-size: var(--fs-h5);
-}
-
-.paragraph {
-  font-size: var(--fs-small);
-}
-
-
 :root {
 
   --clr-primary: #ffffff;
@@ -62,3 +41,25 @@ nav {
   --space-6: 0.313rem;
   --space-7: 0.125rem;
 }
+
+img {
+  width: 500px;
+  height: 700px;
+}
+
+nav {
+  height: 80px;
+  display: flex;
+  align-items: center;
+}
+
+
+.heading1 {
+  font-size: var(--fs-h5);
+}
+
+.paragraph {
+  font-size: var(--fs-small);
+}
+
+.p-1
