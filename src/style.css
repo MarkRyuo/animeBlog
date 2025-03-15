@@ -73,3 +73,19 @@ nav {
 .p3 {
   padding: var(--space-3);
 }
+
+.p4 {
+  padding: var(--space-4);
+}
+
+.p5 {
+  padding: var(--space-5);
+}
+
+.p6 {
+  padding: var(--space-6);
+}
+
+.p7 {
+  padding: var(--space-7);
+}
