@@ -30,7 +30,7 @@ nav {
 }
 
 .paragraph {
-  font-size: var(--fs-p);
+  font-size: var(--fs-small);
 }
 
 
@@ -53,4 +53,7 @@ nav {
   --fs-h6: 1.5rem ;
   --fs-p: 1.2rem ;
   --fs-small: 1rem ;
+
+  --space-1: 1.875rem ;
+  --space-2: 1.563rem
 }
