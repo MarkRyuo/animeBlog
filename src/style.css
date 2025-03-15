@@ -47,11 +47,16 @@ img {
   height: 700px;
 }
 
+
+header {
+  max-width: 1200px;
+  margin: 0px auto;
+}
+
 nav {
   height: 80px;
   display: flex;
   align-items: center;
-  border: 1px solid ;
 }
 
 
@@ -65,5 +70,10 @@ nav {
 
 main {
   display: grid;
+  grid-template-columns: repeat(3, 1fr ) ;
+  max-width: 1200px;
+  margin: 0px auto;
+
+  border: 1px solid;
 }
 
