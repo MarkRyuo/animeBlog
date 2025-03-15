@@ -19,7 +19,9 @@ img {
 }
 
 nav {
-
+  height: 80px;
+  display: flex;
+  align-items: center;
 }
 
 
@@ -29,4 +31,12 @@ nav {
 
 .paragraph {
   font-size: 1.2rem;
+}
+
+
+:root {
+
+  --clr-primary: ;
+  --clr-secondary: ;
+  --clr-accent: ;
 }
