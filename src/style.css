@@ -8,6 +8,10 @@
   padding: 0;
 }
 
+body {
+    font-family: "Poppins", sans-serif;
+}
+
 
 img {
   width: 500px;
