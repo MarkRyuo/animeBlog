@@ -63,3 +63,7 @@ nav {
   font-size: var(--fs-small);
 }
 
+main {
+  display: gird;
+}
+
