@@ -67,7 +67,7 @@ nav {
   font-size: var(--fs-small);
 }
 
-main {
+.grid-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr ) ;
   max-width: 1200px;
