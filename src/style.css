@@ -62,30 +62,3 @@ nav {
   font-size: var(--fs-small);
 }
 
-.p1 {
-  padding: var(--space-1);
-}
-
-.p2 {
-  padding: var(--space-2);
-}
-
-.p3 {
-  padding: var(--space-3);
-}
-
-.p4 {
-  padding: var(--space-4);
-}
-
-.p5 {
-  padding: var(--space-5);
-}
-
-.p6 {
-  padding: var(--space-6);
-}
-
-.p7 {
-  padding: var(--space-7);
-}
