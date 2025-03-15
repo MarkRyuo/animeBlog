@@ -65,3 +65,11 @@ nav {
 .p1 {
   padding: var(--space-1);
 }
+
+.p2 {
+  padding: var(--space-2);
+}
+
+.p3 {
+  padding: var(--space-3);
+}
