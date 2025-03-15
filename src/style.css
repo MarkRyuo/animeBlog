@@ -78,5 +78,10 @@ nav {
   border: 1px solid;
 }
 
-.hero-container
+.hero-container {
+  grid-column: 1 / 4;
+
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
 
