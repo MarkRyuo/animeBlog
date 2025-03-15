@@ -26,11 +26,11 @@ nav {
 
 
 .heading1 {
-  font-size: 2rem;
+  font-size: var(--fs-h5);
 }
 
 .paragraph {
-  font-size: 1.2rem;
+  font-size: var(--fs-p);
 }
 
 
@@ -46,4 +46,11 @@ nav {
 
 
   --fs-h1: 3rem ;
+  --fs-h2: 2.8rem ;
+  --fs-h3: 2.4rem ;
+  --fs-h4: 2.2rem ;
+  --fs-h5: 2rem ;
+  --fs-h6: 1.5rem ;
+  --fs-p: 1.2rem ;
+  --fs-small: 1rem ;
 }
