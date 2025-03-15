@@ -62,4 +62,6 @@ nav {
   font-size: var(--fs-small);
 }
 
-.p-1
+.p1 {
+  padding: var(--space-1);
+}
