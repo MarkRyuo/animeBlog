@@ -9,7 +9,7 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: var(--ff);
 }
 
 
@@ -36,8 +36,13 @@ nav {
 
 :root {
 
-  --clr-primary: ;
-  --clr-secondary: ;
-  --clr-accent: ;
+  --clr-primary: #ffffff;
+  --clr-secondary: #cbf3f0;
+  --clr-accent: #2ec4b6;
   --clr-text: ;
+
+
+  --ff: "popins", sans-serif;
+
+
 }
