@@ -222,5 +222,7 @@ nav {
 /*? Responsive */
 
 @media (max-width: 757px) {
-  
+  .grid-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
