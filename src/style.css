@@ -217,3 +217,10 @@ nav {
 .card-container img {
   border-radius: 20px;
 }
+
+
+/*? Responsive */
+
+@media (max-width: 757px) {
+  
+}
