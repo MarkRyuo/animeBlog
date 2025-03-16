@@ -41,10 +41,10 @@ body {
   
 
 
-  --spacelg: ;
-  --space-md: ;
-  --space-sm: ;
-  --space-xs: ;
+  --space-lg: 1.875rem;  /* Large spacing */
+  --space-md: 1.25rem;   /* Medium spacing */
+  --space-sm: 0.938rem;  /* Small spacing */
+  --space-xs: 0.313rem;  /* Extra small spacing */
 
 
 }
