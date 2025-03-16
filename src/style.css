@@ -108,11 +108,11 @@ nav {
 }
 
 .p-1 {
-  font-size: var(--text-normal);
+  font-size: var(--fs-normal);
 }
 
 .p-2 {
-  font-size: var(--text-lg);
+  font-size: var(--fs-lg);
 }
 
 .grid-container {
