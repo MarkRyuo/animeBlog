@@ -56,7 +56,7 @@ body {
   --space-xs: 0.313rem;  /* Extra small spacing 5px*/
 
   /** max-width */
-  --maxW-xl: 1500px ; /* max-width */
+  --w-max-xl: 1500px ; /* max-width */
   --maxW-lg: 1200px ; /* max-width */
   --maxW-md: 992px ; /* max-width */
   --maxW-sm: 768px ; /* max-width */
@@ -70,7 +70,6 @@ img {
 
 header {
   max-width: var(--maxW-xl);
-  border: 1px solid;
   margin: 0px auto;
 }
 
