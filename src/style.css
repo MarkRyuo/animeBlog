@@ -81,6 +81,11 @@ nav {
   font-weight: 600;
 }
 
+.fs-4 {
+  font-size: var(--text-4xl);
+  font-weight: 600;
+}
+
 .paragraph {
   font-size: var(--fs-small);
 }
