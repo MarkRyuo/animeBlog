@@ -55,7 +55,7 @@ body {
   --space-sm: 0.938rem;  /* Small spacing 15px*/
   --space-xs: 0.313rem;  /* Extra small spacing 5px*/
 
-  /** max-width */
+  /** max-width & min-width */
   --w-max-xl: 1500px;  /* Max-width */
   --w-max-lg: 1200px;
   --w-max-md: 992px;
