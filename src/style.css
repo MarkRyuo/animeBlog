@@ -31,6 +31,7 @@ body {
   --ff: "popins", sans-serif;
   --ff1: "Roboto", sans-serif;
   --ff2: ;
+  --ff3: ;
 
   /** font-text */
   --fs-6xl: 3.75rem;  /* 60px */
