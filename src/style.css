@@ -55,6 +55,12 @@ body {
   --space-sm: 0.938rem;  /* Small spacing 15px*/
   --space-xs: 0.313rem;  /* Extra small spacing 5px*/
 
+
+  --maxW-xl: 1500px ; /* max-width */
+  --maxW-lg: 1200px ; /* max-width */
+  --maxW-md: 992px ; /* max-width */
+  --maxW-sm: 768px ; /* max-width */
+  --maxW-xs: 576px ; /* max-width */
 }
 
 img {
@@ -63,7 +69,8 @@ img {
 
 
 header {
-  max-width: 1200px;
+  max-width: 1500px;
+  border: 1px solid;
   margin: 0px auto;
 }
 
@@ -105,8 +112,8 @@ nav {
 .grid-container {
   display: grid;
   grid-template-columns: repeat(6, 1fr ) ;
-  max-width: 1200px;
-  margin: 0px auto;
+  max-width: 1500px;
+  margin: auto;
 
   gap: 10px;
 
