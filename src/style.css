@@ -41,10 +41,12 @@ body {
   
 
 
-  --spacelg: 1.875rem ;
-  --space-md: 1.563rem ;
+  --spacelg: ;
+  --space-md: ;
   --space-sm: 1.25rem ;
   --space-xs: 0.938rem ;
+
+
 }
 
 img {
