@@ -61,7 +61,7 @@ body {
   --w-max-sm: 768px;
   --w-max-xs: 576px;
 
-  --w-min-xl: 1201px;  /* Min-width (usually just above the previous max) */
+  --w-min-xl: 1201px;/* Min-width(usually just above the previous max) */
   --w-min-lg: 993px;
   --w-min-md: 769px;
   --w-min-sm: 577px;
