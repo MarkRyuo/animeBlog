@@ -27,13 +27,13 @@ body {
   --clr-accent: #2ec4b6;
   --clr-text: ;
 
-  /** font-family */
+  /*? font-family */
   --ff: "popins", sans-serif;
   --ff1: "Roboto", sans-serif;
   --ff2: ;
   --ff3: ;
 
-  /** font-text */
+  /*? font-text */
   --fs-6xl: 3.75rem;  /* 60px */
   --fs-5xl: 3rem;     /* 48px */
   --fs-4xl: 2.25rem;  /* 36px */
@@ -45,9 +45,7 @@ body {
   --fs-sm: 0.875rem;  /* 14px */
   --fs-xs: 0.75rem;   /* 12px */
 
-  
-
-  /** spacing */
+  /*? spacing */
   --space-3xl: 4.5rem;  /* Extra extra large spacing 72px*/
   --space-xxl: 3.75rem; /* Extra large spacing 60px*/ 
   --space-xl: 2.75rem; /* Extra large spacing 44px*/
@@ -56,7 +54,7 @@ body {
   --space-sm: 0.938rem;  /* Small spacing 15px*/
   --space-xs: 0.313rem;  /* Extra small spacing 5px*/
 
-  /** max-width & min-width */
+  /*? max-width & min-width */
   --w-max-xl: 1500px;  /* Max-width */
   --w-max-lg: 1200px;
   --w-max-md: 992px;
