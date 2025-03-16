@@ -86,6 +86,16 @@ nav {
   font-weight: 600;
 }
 
+.fs-3 {
+  font-size: var(--text-3xl);
+  font-weight: 600;
+}
+
+.fs-2 {
+  font-size: var(--text-2xl);
+  font-weight: 600;
+}
+
 .p-1 {
   font-size: var(--text-normal);
 }
