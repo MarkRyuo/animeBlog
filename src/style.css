@@ -25,6 +25,7 @@ body {
 
   --text-xs: 0.75rem/12px ;
   --text-sm: 0.875rem/14px ;
+  --text-normal: 1rem/16px ;
 
   --fs-h1: 3rem;
   --fs-h2: 2.8rem ;
