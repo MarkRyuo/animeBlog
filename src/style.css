@@ -33,16 +33,16 @@ body {
   --ff2: ;
 
   /** font-text */
-  --text-6xl: 3.75rem;  /* 60px */
-  --text-5xl: 3rem;     /* 48px */
-  --text-4xl: 2.25rem;  /* 36px */
-  --text-3xl: 1.875rem; /* 30px */
-  --text-2xl: 1.5rem;   /* 24px */
-  --text-xl: 1.25rem;   /* 20px */
-  --text-lg: 1.125rem;  /* 18px */
-  --text-normal: 1rem;  /* 16px (default) */
-  --text-sm: 0.875rem;  /* 14px */
-  --text-xs: 0.75rem;   /* 12px */
+  --fs-6xl: 3.75rem;  /* 60px */
+  --fs-5xl: 3rem;     /* 48px */
+  --fs-4xl: 2.25rem;  /* 36px */
+  --fs-3xl: 1.875rem; /* 30px */
+  --fs-2xl: 1.5rem;   /* 24px */
+  --fs-xl: 1.25rem;   /* 20px */
+  --fs-lg: 1.125rem;  /* 18px */
+  --fs-normal: 1rem;  /* 16px (default) */
+  --fs-sm: 0.875rem;  /* 14px */
+  --fs-xs: 0.75rem;   /* 12px */
 
   
 
