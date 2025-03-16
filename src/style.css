@@ -30,6 +30,7 @@ body {
   /** font-family */
   --ff: "popins", sans-serif;
   --ff1: "Roboto", sans-serif;
+  --ff2: ;
 
   /** font-text */
   --text-xs: 0.75rem/12px ;
