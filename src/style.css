@@ -40,7 +40,7 @@ body {
   --text-9xl: 8rem/128px ;
   
 
-
+  /** spacing */
   --space-lg: 1.875rem;  /* Large spacing */
   --space-md: 1.25rem;   /* Medium spacing */
   --space-sm: 0.938rem;  /* Small spacing */
