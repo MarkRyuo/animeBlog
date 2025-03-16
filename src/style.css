@@ -33,7 +33,7 @@ body {
   --ff2: ;
   --ff3: ;
 
-  /*? font-text */
+  /*? font-text-size */
   --fs-6xl: 3.75rem;  /* 60px */
   --fs-5xl: 3rem;     /* 48px */
   --fs-4xl: 2.25rem;  /* 36px */
@@ -122,8 +122,18 @@ nav {
 }
 
 .p-2 {
-  font-size: var(--fs-lg);
+  font-size: var(--fs-sm);
+
+
+
+.p-3 {
+  font-size: var(--fs-xs);
 }
+
+
+
+
+
 
 .grid-container {
   display: grid;
