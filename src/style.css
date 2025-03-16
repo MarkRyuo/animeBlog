@@ -66,7 +66,7 @@ body {
   --w-min-lg: 993px;
   --w-min-md: 769px;
   --w-min-sm: 577px;
-  --w-min-xs: 0px;  /* The smallest breakpoint */
+  --w-min-xs: 357px;  /* The smallest breakpoint */
 
 }
 
@@ -76,7 +76,7 @@ img {
 
 
 header {
-  max-width: var(--maxW-xl);
+  max-width: var(--w-max-xl);
   margin: 0px auto;
 }
 
@@ -109,6 +109,11 @@ nav {
 
 .p-1 {
   font-size: var(--fs-normal);
+  line-height: 1.4 ;
+  letter-spacing: 1px ;
+  word-spacing: 1px ;
+  text-align: left ;
+  text-transform: capitalize ;
 }
 
 .p-2 {
@@ -118,7 +123,7 @@ nav {
 .grid-container {
   display: grid;
   grid-template-columns: repeat(6, 1fr ) ;
-  max-width: 1500px;
+  max-width: var(--w-max-xl);
   margin: auto;
 
   gap: 10px;
