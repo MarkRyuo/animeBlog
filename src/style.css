@@ -90,7 +90,9 @@ nav {
   font-size: var(--text-normal);
 }
 
-.p-2
+.p-2 {
+  font-size: var(--text-lg);
+}
 
 .grid-container {
   display: grid;
