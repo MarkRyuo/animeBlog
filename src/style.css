@@ -85,6 +85,10 @@ nav {
   align-items: center;
 }
 
+.fs-6 {
+  font-size: var(--fs-6xl);
+  font-weight: 600;
+}
 
 .fs-5 {
   font-size: var(--fs-5xl);
