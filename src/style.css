@@ -20,8 +20,9 @@ body {
   --clr-accent: #2ec4b6;
   --clr-text: ;
 
-
+  /** font-family */
   --ff: "popins", sans-serif;
+  --ff1: ;
 
   --text-xs: 0.75rem/12px ;
   --text-sm: 0.875rem/14px ;
@@ -34,6 +35,10 @@ body {
   --text-5xl: 3rem/48px ;
   --text-6xl: 3.75rem/60px ;
   --text-7xl: 4.5rem/72px ;
+  --text-8xl: 6rem/96px ;
+  --text-9xl: 8rem/128px ;
+  
+
 
   --fs-h1: 3rem;
   --fs-h2: 2.8rem ;
