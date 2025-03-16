@@ -49,7 +49,8 @@ body {
   
 
   /** spacing */
-  --space-xxl: 2.75rem; /* Extra large spacing */
+  --space-xxl: 3.75rem; /* Extra large spacing */
+  --space-xl: 2.75rem; /* Extra large spacing */
   --space-lg: 1.875rem;  /* Large spacing */
   --space-md: 1.25rem;   /* Medium spacing */
   --space-sm: 0.938rem;  /* Small spacing */
