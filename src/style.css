@@ -88,22 +88,22 @@ nav {
 
 
 .fs-5 {
-  font-size: var(--text-5xl);
+  font-size: var(--fs-5xl);
   font-weight: 600;
 }
 
 .fs-4 {
-  font-size: var(--text-4xl);
+  font-size: var(--fs-4xl);
   font-weight: 600;
 }
 
 .fs-3 {
-  font-size: var(--text-3xl);
+  font-size: var(--fs-3xl);
   font-weight: 600;
 }
 
 .fs-2 {
-  font-size: var(--text-2xl);
+  font-size: var(--fs-2xl);
   font-weight: 600;
 }
 
