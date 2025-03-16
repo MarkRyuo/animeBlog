@@ -52,9 +52,9 @@ body {
   --space-xxl: 3.75rem; /* Extra large spacing 60px*/ 
   --space-xl: 2.75rem; /* Extra large spacing 44px*/
   --space-lg: 1.875rem;  /* Large spacing 30px*/
-  --space-md: 1.25rem;   /* Medium spacing */
-  --space-sm: 0.938rem;  /* Small spacing */
-  --space-xs: 0.313rem;  /* Extra small spacing */
+  --space-md: 1.25rem;   /* Medium spacing 20px*/
+  --space-sm: 0.938rem;  /* Small spacing 15px*/
+  --space-xs: 0.313rem;  /* Extra small spacing 5px*/
 
   
 
