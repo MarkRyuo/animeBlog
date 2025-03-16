@@ -86,8 +86,8 @@ nav {
   font-weight: 600;
 }
 
-.paragraph {
-  font-size: var(--fs-small);
+.p-1 {
+  font-size: var(--text-normal);
 }
 
 .grid-container {
