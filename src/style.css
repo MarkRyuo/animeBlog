@@ -150,27 +150,6 @@ nav {
 
 
 
-.grid-container {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr ) ;
-  max-width: var(--w-max-xl);
-  margin: auto;
-  gap: 10px;
-
-  
-
-  /* border: 1px solid; */
-}
-
-
-.animated-gradient {
-  animation: animateBg 14s linear infinite;
-  background-image: linear-gradient(0deg, #ff80ff, #ffffff, #00ffff, #ff80ff, #ffffff);
-  background-size: 100% 400%;
-}
-
-
-
 
 /*? Responsive */
 
