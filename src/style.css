@@ -76,10 +76,7 @@ body {
 
 .fs-5 { font-size: var(--fs-5xl); }
 
-.fs-4 {
-  font-size: var(--fs-4xl);
-  font-weight: 600;
-}
+.fs-4 { font-size: var(--fs-4xl); }
 
 .fs-3 {
   font-size: var(--fs-3xl);
