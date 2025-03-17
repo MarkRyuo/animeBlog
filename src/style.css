@@ -141,6 +141,7 @@ header nav {
   align-items: center;
   max-width: var(--w-max-lg);
   margin: 0px auto;
+  padding: 0px var(--space-sm);
 }
 
 
@@ -148,6 +149,10 @@ header nav {
   border: 1px solid red;
   max-width: var(--w-max-lg);
   margin: 0px auto;
+}
+
+section {
+  
 }
 
 
