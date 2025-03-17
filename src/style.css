@@ -160,8 +160,11 @@ header nav {
   grid-template-columns: 1fr 1fr;
 }
 
-.item-text-container {
-  display: grid;
+img {
+  width: 100%;
+}
+
+.item-container {
   
 }
 
