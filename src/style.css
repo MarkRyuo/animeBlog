@@ -85,7 +85,7 @@ body {
 .fs-1 { font-size: var(--fs-normal);}
 
 /*! Font-Weight  */
-.fw-1 { font-weight: 200; }
+.fw-1 { font-weight: 200; } /* Light */
 
 .fw-2 { font-weight: 400; }
 
@@ -95,7 +95,7 @@ body {
 
 .fw-5 { font-weight: 600; }
 
-.fw-6 { font-weight: 700; }
+.fw-6 { font-weight: 700; } /* Bold */
 
 
 
