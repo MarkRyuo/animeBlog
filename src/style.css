@@ -139,6 +139,7 @@ header nav {
   height: 80px;
   display: flex;
   align-items: center;
+  max-width: var(--w-max-lg);
 }
 
 
