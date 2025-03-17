@@ -72,12 +72,9 @@ body {
 
 /*! Font-Size  */
 
-.fs-6 {font-size: var(--fs-6xl);}
+.fs-6 { font-size: var(--fs-6xl); }
 
-.fs-5 {
-  font-size: var(--fs-5xl);
-  font-weight: 600;
-}
+.fs-5 { font-size: var(--fs-5xl); }
 
 .fs-4 {
   font-size: var(--fs-4xl);
