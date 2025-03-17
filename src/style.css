@@ -144,6 +144,13 @@ header nav {
 }
 
 
+.grid-container {
+  border: 1px solid red;
+  max-width: var(--w-max-lg);
+  margin: 0px auto;
+}
+
+
 
 /*? Responsive */
 
