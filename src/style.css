@@ -140,6 +140,7 @@ header nav {
   display: flex;
   align-items: center;
   max-width: var(--w-max-lg);
+  margin: 0px auto;
 }
 
 
