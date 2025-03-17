@@ -69,48 +69,35 @@ body {
 
 }
 
-img {
-  width: 100%;
-}
-
-
-header {
-  max-width: var(--w-max-xl);
-  margin: 0px auto;
-}
-
-nav {
-  height: 80px;
-  display: flex;
-  align-items: center;
-}
 
 /*! Font-Size  */
 
-.fs-6 {
-  font-size: var(--fs-6xl);
-  font-weight: 600;
-}
+.fs-6 { font-size: var(--fs-4xl); }
 
-.fs-5 {
-  font-size: var(--fs-5xl);
-  font-weight: 600;
-}
+.fs-5 { font-size: var(--fs-3xl); }
 
-.fs-4 {
-  font-size: var(--fs-4xl);
-  font-weight: 600;
-}
+.fs-4 { font-size: var(--fs-2xl); }
 
-.fs-3 {
-  font-size: var(--fs-3xl);
-  font-weight: 600;
-}
+.fs-3 { font-size: var(--fs-xl); }
 
-.fs-2 {
-  font-size: var(--fs-2xl);
-  font-weight: 600;
-}
+.fs-2 { font-size: var(--fs-lg); }
+
+.fs-1 { font-size: var(--fs-normal);}
+
+/*! Font-Weight  */
+.fw-1 { font-weight: 200; } /* Light */
+
+.fw-2 { font-weight: 400; }
+
+.fw-3 { font-weight: 600; } /* Semi-Bold */
+
+.fw-4 { font-weight: 700; } 
+
+.fw-5 { font-weight: 600; }
+
+.fw-6 { font-weight: 700; } /* Bold */
+
+
 
 .p-1 {
   font-size: var(--fs-normal);
@@ -145,74 +132,53 @@ nav {
   text-transform: none;
 }
 
+/*! Play-Ground  */
 
-
-
+header nav {
+  border: 1px solid red;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  max-width: var(--w-max-lg);
+  margin: 0px auto;
+  padding: 0px var(--space-sm);
+}
 
 
 .grid-container {
+  border: 1px solid red;
+  max-width: var(--w-max-lg);
+  margin: 0px auto;
+
   display: grid;
-  grid-template-columns: repeat(3, 1fr ) ;
-  max-width: var(--w-max-xl);
-  margin: auto;
-  gap: 10px;
-
-  
-
-  /* border: 1px solid; */
-}
-
-
-.animated-gradient {
-  animation: animateBg 14s linear infinite;
-  background-image: linear-gradient(0deg, #ff80ff, #ffffff, #00ffff, #ff80ff, #ffffff);
-  background-size: 100% 400%;
-}
-
-@keyframes animateBg {
-  0% {
-    background-position: 0% 0%;
-  }
-
-  100% {
-    background-position: 0% 100%;
-  }
-}
-
-.hero-container {
-  grid-column: span 3;
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  align-items: center;
+  grid-template-columns: 1fr 1fr;
   gap: 20px;
 }
 
-
-.card-text {
-  grid-column: 2 / 4;
+.hero-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 
-
-
-
-.card-container img {
-  border-radius: 20px;
+.item-text-container {
+  display: grid;
+  
 }
+
+.item-container {
+
+}
+
 
 
 /*? Responsive */
 
 @media (max-width: 757px) {
 
-  .card-container {
-    grid-column: span 3;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
-    align-items: center;
-  }
-
 
 
 }
+
+
+
 
