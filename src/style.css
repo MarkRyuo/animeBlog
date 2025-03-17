@@ -169,48 +169,12 @@ nav {
   background-size: 100% 400%;
 }
 
-@keyframes animateBg {
-  0% {
-    background-position: 0% 0%;
-  }
 
-  100% {
-    background-position: 0% 100%;
-  }
-}
-
-.hero-container {
-  grid-column: span 3;
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  align-items: center;
-  gap: 20px;
-}
-
-
-.card-text {
-  grid-column: 2 / 4;
-}
-
-
-
-
-.card-container img {
-  border-radius: 20px;
-}
 
 
 /*? Responsive */
 
 @media (max-width: 757px) {
-
-  .card-container {
-    grid-column: span 3;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
-    align-items: center;
-  }
 
 
 
