@@ -69,21 +69,6 @@ body {
 
 }
 
-img {
-  width: 100%;
-}
-
-
-header {
-  max-width: var(--w-max-xl);
-  margin: 0px auto;
-}
-
-nav {
-  height: 80px;
-  display: flex;
-  align-items: center;
-}
 
 /*! Font-Size  */
 
