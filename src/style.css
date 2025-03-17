@@ -74,13 +74,15 @@ body {
 
 .fs-6 { font-size: var(--fs-6xl); }
 
-.fs-5 { font-size: var(--fs-5xl); }
+.fs-5 { font-size: var(--fs-3xl); }
 
-.fs-4 { font-size: var(--fs-4xl); }
+.fs-4 { font-size: var(--fs-2xl); }
 
-.fs-3 { font-size: var(--fs-3xl); }
+.fs-3 { font-size: var(--fs-xl); }
 
-.fs-2 { font-size: var(--fs-2xl); }
+.fs-2 { font-size: var(--fs-lg); }
+
+.fs-1 { font-size: var(--fs-normal);}
 
 
 
