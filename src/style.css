@@ -110,6 +110,10 @@ body {
   margin: var(--space-xs);
 }
 
+.m-2 {
+  margin: var(--space-sm);
+}
+
 .p-1 {
   font-size: var(--fs-normal);
   color: var(--clr-text);
