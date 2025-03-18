@@ -112,8 +112,10 @@ body {
 
 .m-3 { margin: var(--space-md); /*? 20px*/ }
 
-.m-4 {
-margin: var(--space-lg); /*? 24px*/
+.m-4 { margin: var(--space-lg); /*? 24px*/ }
+
+.m-5 {
+  margin: var(--space-xxl);
 }
 
 .p-1 {
