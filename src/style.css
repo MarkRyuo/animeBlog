@@ -188,13 +188,6 @@ img {
   object-fit: fill;
 }
 
-.item-container {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: repeat(2, 250px);
-  grid-column: span 2;
-  gap: 20px;
-}
 
 
 
