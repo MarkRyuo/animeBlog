@@ -102,8 +102,8 @@ body {
 
 /*! Margin & Padding  */
 
-.m{
-  margin: var(--space-xs);
+.p{
+  padding: var(--space-xs);
 }
 
 .mxl
