@@ -208,7 +208,9 @@ img {
 
 @media (max-width: 757px) {
 
-  
+  .item-container {
+    grid-template-columns: ;
+  }
 
 
 }
