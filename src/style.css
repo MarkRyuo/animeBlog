@@ -111,7 +111,7 @@ body {
 }
 
 .m-2 {
-  margin: var(--space-sm);
+  margin: var(--space-sm); /*? */
 }
 
 .m-3 {
