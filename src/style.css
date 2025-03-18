@@ -118,6 +118,10 @@ body {
   margin: var(--space-md); /*? 20px*/
 }
 
+.m-4 {
+  margin: var(--space-lg);
+}
+
 .p-1 {
   font-size: var(--fs-normal);
   color: var(--clr-text);
