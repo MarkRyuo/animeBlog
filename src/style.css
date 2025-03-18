@@ -135,7 +135,6 @@ body {
 /*! Play-Ground  */
 
 header nav {
-  border: 1px solid red;
   height: 80px;
   display: flex;
   align-items: center;
@@ -171,7 +170,7 @@ img {
 .item-container {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 250px);
   grid-column: span 2;
   gap: 20px;
 }
