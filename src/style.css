@@ -208,12 +208,13 @@ img {
 
 @media (max-width: 757px) {
 
-  .card-container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-column: span 2;
+  .item-container {
+    grid-template-columns: 1fr 1fr;
 
   }
+
+  
+
 
 
 }
