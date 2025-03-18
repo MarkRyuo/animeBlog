@@ -229,9 +229,21 @@ img {
 
 @media (max-width: 757px) {
 
-  .item-container {
-    grid-template-columns: 1fr 1fr;
+  .card-container {
+    grid-template-columns: repeat(6, 1fr);
+      grid-template-rows: repeat(2, 250px);
+  }
 
+  .card-row1-col1 {
+    grid-column: span 7;
+  }
+
+  .card-row1-col2 {
+    grid-column: span 7;
+  }
+
+  .card-row1-col3 {
+    grid-column: span 7;
   }
 
   
