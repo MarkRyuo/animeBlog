@@ -158,6 +158,8 @@ header nav {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-column: span 2;
+  align-items: center;
+  gap: 20px;
 }
 
 img {
