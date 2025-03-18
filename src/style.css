@@ -107,7 +107,7 @@ body {
 }
 
 .m-1 {
-  margin: var(--space-xs);
+  margin: var(--space-xs);  /*! */
 }
 
 .m-2 {
