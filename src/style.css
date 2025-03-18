@@ -230,20 +230,20 @@ img {
 @media (max-width: 757px) {
 
   .card-container {
-    grid-template-columns: repeat(6, 1fr);
-      grid-template-rows: repeat(2, 250px);
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 250px);
   }
 
   .card-row1-col1 {
-    grid-column: span 7;
+    grid-column: span 2;
   }
 
   .card-row1-col2 {
-    grid-column: span 7;
+    grid-column: span 2;
   }
 
   .card-row1-col3 {
-    grid-column: span 7;
+    grid-column: span 2;
   }
 
   
