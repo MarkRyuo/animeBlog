@@ -103,10 +103,12 @@ body {
 /*! Margin & Padding  */
 
 .padding{
-  padding: 10px;
+  padding: var(--space-xs);
 }
 
-.mxl
+.m-1 {
+  margin: var(--space-xs);
+}
 
 .p-1 {
   font-size: var(--fs-normal);
