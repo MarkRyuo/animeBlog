@@ -230,6 +230,7 @@ img {
 @media (max-width: 757px) {
 
   .card-container {
+    display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 250px);
   }
