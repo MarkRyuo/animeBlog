@@ -235,15 +235,7 @@ img {
     grid-template-rows: repeat(2, 250px);
   }
 
-  .card-row1-col1 {
-    grid-column: span 2;
-  }
-
-  .card-row1-col2 {
-    grid-column: span 2;
-  }
-
-  .card-row1-col3 {
+  .card-row1-col1, .card-row1-col2, .card-row1-col3 {
     grid-column: span 2;
   }
 
