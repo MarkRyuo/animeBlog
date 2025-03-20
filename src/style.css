@@ -155,6 +155,7 @@ header nav {
 
 .grid-container {
   max-width: var(--w-max-lg);
+  margin: var(--margin-auto);
 }
 
 
