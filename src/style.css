@@ -205,7 +205,6 @@ nav {
 @media screen and (max-width: 576px) {
 
     .card-content {
-      
       display: grid;
       grid-template-columns: 1fr;
       gap: var(--space-md);
