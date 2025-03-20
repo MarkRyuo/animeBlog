@@ -89,7 +89,6 @@ body, html {
 
 
 /*! Font-Size  */
-
 .fs-1 { font-size: var(--fs-normal); } /*? 16px */
 .fs-2 { font-size: var(--fs-lg); } /*? 18px */
 .fs-3 { font-size: var(--fs-xl); } /*? 20px */
