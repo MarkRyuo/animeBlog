@@ -93,11 +93,11 @@ body {
 /*! Font-Size  */
 
 .fs-1 { font-size: var(--fs-normal);} /*? 16px */
-.fs-2 { font-size: var(--fs-lg); }
-.fs-3 { font-size: var(--fs-xl); }
-.fs-4 { font-size: var(--fs-2xl); }
-.fs-5 { font-size: var(--fs-3xl); }
-.fs-6 { font-size: var(--fs-4xl); }
+.fs-2 { font-size: var(--fs-lg); } /*? 18px */
+.fs-3 { font-size: var(--fs-xl); } /*? 20px */
+.fs-4 { font-size: var(--fs-2xl); } /*? 24px */
+.fs-5 { font-size: var(--fs-3xl); } /*? 30px */
+.fs-6 { font-size: var(--fs-4xl); } /*? 36px */
 
 /*! Font-Weight  */
 .fw-1 { font-weight: 200; } /* Light */
