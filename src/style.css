@@ -110,8 +110,6 @@ body {
 
 /*! Margin & Padding  */
 
-.padding{padding: var(--space-xs);}
-
 .p-1 { padding: var(--space-xs); } /*? 5px*/
 .p-2 { padding: var(--space-sm); } /*? 15px*/
 .p-3 { padding: var(--space-md); } /*? 20px*/
