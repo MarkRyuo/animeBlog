@@ -63,7 +63,7 @@ body {
   --fs-lg: 1.125rem;  /*? 18px */
   --fs-normal: 1rem;  /*? 16px (default) */
   --fs-sm: 0.875rem;  /*? 14px */
-  --fs-xs: 0.75rem;   /*/ 12px */
+  --fs-xs: 0.75rem;   /*? 12px */
 
   /*? spacing */
   --space-3xl: 4.5rem;  /* Extra extra large spacing 72px*/
@@ -75,17 +75,17 @@ body {
   --space-xs: 0.313rem;  /* Extra small spacing 5px*/
 
   /*? max-width & min-width */
-  --w-max-xl: 1500px;  /* Max-width */
+  --w-max-xl: 1500px;  /*? Max-width */
   --w-max-lg: 1200px;
   --w-max-md: 992px;
   --w-max-sm: 768px;
-  --w-max-xs: 576px;
+  --w-max-xs: 576px; /*? The smallest breakpoint */
 
-  --w-min-xl: 1201px;/* Min-width(usually just above the previous max) */
+  --w-min-xl: 1201px;/*? Min-width(usually just above the previous max) */
   --w-min-lg: 993px;
   --w-min-md: 769px;
   --w-min-sm: 577px;
-  --w-min-xs: 357px;  /* The smallest breakpoint */
+  --w-min-xs: 357px;  /*? The smallest breakpoint */
 
 }
 
