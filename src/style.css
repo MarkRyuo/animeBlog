@@ -126,7 +126,17 @@ img {
 .m-4 { margin: var(--space-lg); } /*? 24px*/
 .m-5 { margin: var(--space-xl); } /*? 44px*/
 
-/*! Row & Column  */
+/*! Responsive */
+
+@media screen and (max-width: 576px) {}
+
+@media screen and (max-width: 768px) {}
+
+@media screen and (max-width: 992px) {}
+
+@media screen and (max-width: 1200px) {}
+
+@media screen and (max-width: 1500px) {}
 
 
 
@@ -138,27 +148,6 @@ img {
 
 
 
-/*? Responsive */
-
-@media screen and (max-width: 576px) {
-
-}
-
-@media screen and (max-width: 768px) {  
-
-}
-
-@media screen and (max-width: 992px) {
-  
-}
-
-@media screen and (max-width: 1200px) {
-
-}
-
-@media screen and (max-width: 1500px) {
-
-}
 
 
 
