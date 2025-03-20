@@ -121,8 +121,8 @@ body {
 .m-1 { margin: var(--space-xs); } /*? 5px */
 .m-2 { margin: var(--space-sm); } /*? 15px*/
 .m-3 { margin: var(--space-md); } /*? 20px*/
-.m-4 { margin: var(--space-lg); /*? 24px*/ }
-.m-5 { margin: var(--space-xl); /*? 44px*/ }
+.m-4 { margin: var(--space-lg); } /*? 24px*/
+.m-5 { margin: var(--space-xl); } /*? 44px*/
 
 
 
