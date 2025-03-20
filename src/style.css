@@ -92,7 +92,7 @@ body {
 
 /*! Font-Size  */
 
-.fs-1 { font-size: var(--fs-normal);} /*? 16px */
+.fs-1 { font-size: var(--fs-normal); } /*? 16px */
 .fs-2 { font-size: var(--fs-lg); } /*? 18px */
 .fs-3 { font-size: var(--fs-xl); } /*? 20px */
 .fs-4 { font-size: var(--fs-2xl); } /*? 24px */
@@ -100,12 +100,12 @@ body {
 .fs-6 { font-size: var(--fs-4xl); } /*? 36px */
 
 /*! Font-Weight  */
-.fw-1 { font-weight: 200; } /* Light */
+.fw-1 { font-weight: 200; } /*? Light */
 .fw-2 { font-weight: 400; }
-.fw-3 { font-weight: 600; } /* Semi-Bold */
+.fw-3 { font-weight: 600; } /*? Semi-Bold */
 .fw-4 { font-weight: 700; } 
 .fw-5 { font-weight: 600; }
-.fw-6 { font-weight: 700; } /* Bold */
+.fw-6 { font-weight: 700; } /*? Bold */
 
 
 /*! Margin & Padding  */
