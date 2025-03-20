@@ -80,11 +80,13 @@ img {
   --space-xs: 0.313rem;  /* Extra small spacing 5px*/
 
   /*? max-width & min-width */
-  --w-max-xl: 1500px;  /*? Max-width */
+  --w-max-xl: 1500px, 0px auto;  /*? Max-width */
   --w-max-lg: 1200px;
   --w-max-md: 992px;
   --w-max-sm: 768px;
   --w-max-xs: 576px; /*? The smallest breakpoint */
+
+  --margin-auto: 0px auto ;
 
   --w-min-xl: 1201px;/*? Min-width(usually just above the previous max) */
   --w-min-lg: 993px;
@@ -144,7 +146,11 @@ img {
 
 /*! Play-Ground  */
 
-
+header nav {
+  border: 1px solid;
+  max-width: var(--w-max-lg);
+  margin: 0px auto;
+}
 
 
 
