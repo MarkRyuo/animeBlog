@@ -149,7 +149,7 @@ img {
 header nav {
   border: 1px solid;
   max-width: var(--w-max-lg);
-  margin: 0px auto;
+  margin: var(--margin-auto);
 }
 
 
