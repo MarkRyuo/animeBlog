@@ -148,14 +148,14 @@ img {
 
 
 header {
-  border: 1px solid red;
   width: 100%;
-  height: 100px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
 }
 
 
 nav {
-  border: 1px solid;
   max-width: var(--w-max-lg);
   /* margin: var(--margin-auto); */
   padding: var(--space-md);
@@ -163,6 +163,8 @@ nav {
   top: 0;
   width: 100%;
   position: fixed;
+  background-color: var(--clr-accent);
+  z-index: 100;
 }
 
 .grid-container {
@@ -184,6 +186,19 @@ nav {
   margin: var(--space-xs) 0px;
 }
 
+
+@media screen and (max-width: 768px) {
+
+  .card-row1-col2, .card-row1-col2, .card-row1-col3 {
+    grid-column: span 3;
+  }
+
+  .card-content {
+    display: grid;
+    
+  }
+  
+}
 
 
 
