@@ -92,12 +92,12 @@ body {
 
 /*! Font-Size  */
 
-.fs-6 { font-size: var(--fs-4xl); }
-.fs-5 { font-size: var(--fs-3xl); }
-.fs-4 { font-size: var(--fs-2xl); }
-.fs-3 { font-size: var(--fs-xl); }
-.fs-2 { font-size: var(--fs-lg); }
 .fs-1 { font-size: var(--fs-normal);}
+.fs-2 { font-size: var(--fs-lg); }
+.fs-3 { font-size: var(--fs-xl); }
+.fs-4 { font-size: var(--fs-2xl); }
+.fs-5 { font-size: var(--fs-3xl); }
+.fs-6 { font-size: var(--fs-4xl); }
 
 /*! Font-Weight  */
 .fw-1 { font-weight: 200; } /* Light */
