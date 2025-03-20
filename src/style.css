@@ -148,6 +148,7 @@ img {
 
 
 
+
 nav {
   border: 1px solid;
   max-width: var(--w-max-lg);
@@ -156,6 +157,7 @@ nav {
   position: fixed;
   top: 0;
   width: 100%;
+  position: fixed;
 }
 
 .grid-container {
