@@ -132,9 +132,7 @@ body {
 
 .m-4 { margin: var(--space-lg); /*? 24px*/ }
 
-.m-5 {
-  margin: var(--space-xl); /*? 44px*/
-}
+.m-5 { margin: var(--space-xl); /*? 44px*/ }
 
 
 
