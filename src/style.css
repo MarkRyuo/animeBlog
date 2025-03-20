@@ -112,11 +112,11 @@ body {
 
 .padding{padding: var(--space-xs);}
 
-.p-1 { padding: var(--space-xs); /*? 5px*/} 
-.p-2 { padding: var(--space-sm); /*? 15px*/}
-.p-3 { padding: var(--space-md); /*? 20px*/ }
-.p-4 { padding: var(--space-lg); /*? 24px*/ }
-.p-5 { padding: var(--space-xl); /*? 44px*/ }
+.p-1 { padding: var(--space-xs); } /*? 5px*/
+.p-2 { padding: var(--space-sm); } /*? 15px*/
+.p-3 { padding: var(--space-md); } /*? 20px*/
+.p-4 { padding: var(--space-lg); } /*? 24px*/
+.p-5 { padding: var(--space-xl); } /*? 44px*/
 
 .m-1 { margin: var(--space-xs);  /*? 5px */ }
 .m-2 { margin: var(--space-sm); /*? 15px*/ }
