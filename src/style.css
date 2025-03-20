@@ -156,8 +156,21 @@ header nav {
 .grid-container {
   max-width: var(--w-max-lg);
   margin: var(--margin-auto);
+
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-md);
 }
 
+.card-row1-col1 {
+  grid-column: span 3;
+
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: center;
+  gap: var(--space-md);
+  margin: var(--space-xs);
+}
 
 
 
