@@ -31,7 +31,7 @@
 }
 
 
-body {
+body, html {
   font-family: var(--ff);
 }
 
