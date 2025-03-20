@@ -35,6 +35,13 @@ body, html {
   font-family: var(--ff);
 }
 
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
 
 :root {
 
@@ -126,13 +133,6 @@ body, html {
 
 
 /*! Play-Ground  */
-
-img {
-  width: 100%;
-  height: 100%;
-  object-fit: fill;
-  object-position: center;
-}
 
 
 
