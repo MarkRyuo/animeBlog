@@ -127,32 +127,6 @@ body, html {
 
 /*! Play-Ground  */
 
-header nav {
-  height: 80px;
-  display: flex;
-  align-items: center;
-  max-width: var(--w-max-lg);
-  margin: 0px auto;
-  padding: 0px var(--space-sm);
-}
-
-
-.grid-container {
-  max-width: var(--w-max-lg);
-  margin: 0px auto;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
-}
-
-.hero-container {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-column: span 2;
-  align-items: center;
-  gap: 20px;
-}
-
 img {
   width: 100%;
   height: 100%;
