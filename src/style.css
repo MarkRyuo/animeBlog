@@ -203,13 +203,13 @@ nav {
 }
 
 @media screen and (max-width: 576px) {
-  
-    .card-row1-col1,
-      .card-row1-col2,
-      .card-row1-col3,
-      .card-row1-col4 {
-        grid-column: span 3;
-      }
+
+    .card-content {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: var(--space-md);
+      align-items: center;
+    }
 }
 
 
