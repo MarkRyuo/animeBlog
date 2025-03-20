@@ -146,11 +146,15 @@ img {
 
 /*! Play-Ground  */
 
+
 header nav {
   border: 1px solid;
   max-width: var(--w-max-lg);
-  margin: var(--margin-auto);
+  /* margin: var(--margin-auto); */
   padding: var(--space-md);
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 .grid-container {
@@ -169,7 +173,7 @@ header nav {
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
   gap: var(--space-md);
-  margin: var(--space-xs);
+  margin: var(--space-xs) 0px;
 }
 
 
