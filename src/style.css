@@ -195,7 +195,9 @@ nav {
   height: 500px;
 }
 
-.card-text-container 
+.card-text {
+  margin: 30px 20px;
+}
 
 
 
