@@ -88,6 +88,7 @@ img {
   --w-max-xs: 576px; /*? The smallest breakpoint */
 
   --margin-auto: 0px auto ;
+  --m-auto: auto ;
 
   --w-min-xl: 1201px;/*? Min-width(usually just above the previous max) */
   --w-min-lg: 993px;
