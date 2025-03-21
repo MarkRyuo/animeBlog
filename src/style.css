@@ -89,6 +89,9 @@ img {
 
   --margin-auto: 0px auto ;
   --m-auto: auto ;
+  --m-xs: ;
+  --m-sm: ;
+
   --p-auto: auto ;
 
   --w-min-xl: 1201px;/*? Min-width(usually just above the previous max) */
