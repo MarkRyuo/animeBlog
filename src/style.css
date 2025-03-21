@@ -173,7 +173,7 @@ nav {
 
 .grid-container {
   max-width: var(--w-max-lg);
-  margin: var(--margin-auto);
+  margin: var(--m-auto);
 
   display: grid;
   grid-template-columns: repeat(3, 1fr);
